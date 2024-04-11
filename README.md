@@ -33,7 +33,7 @@ To resolve this issue:
 
 _Senior Software Engineer at GLG_
 
-Check out my instructor page on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ryan-mitchell-specht?u=104).
+Check out my instructor page at [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ryan-mitchell-specht?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/web-scraping-with-python
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2848331/2848331-1607698087639-16x9.jpg
